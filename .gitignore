@@ -32,3 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 mercadinho.session.sql
+.env
